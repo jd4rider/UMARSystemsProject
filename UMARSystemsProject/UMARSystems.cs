@@ -31,5 +31,10 @@ namespace UMARSystemsProject
         {
             Environment.Exit(0);
         }
+
+        private void runToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
