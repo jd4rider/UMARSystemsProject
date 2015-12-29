@@ -16,7 +16,7 @@ namespace UMARSystemsProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new UMARSystems());
+            Application.Run(new LoginForm());
         }
     }
 }

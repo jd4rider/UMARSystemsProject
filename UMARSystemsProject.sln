@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMARSystemsProject", "UMARSystemsProject\UMARSystemsProject.csproj", "{FEE08294-549A-43E1-A2A1-D12061B9F00B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenStuff", "OpenStuff\OpenStuff.csproj", "{7608353C-932A-488E-B8A0-2EA2BC38A78C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARFileManager", "ClassLibrary1\ARFileManager.csproj", "{0FE64171-39E1-4800-9510-44F391BC9D95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{FEE08294-549A-43E1-A2A1-D12061B9F00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE08294-549A-43E1-A2A1-D12061B9F00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE08294-549A-43E1-A2A1-D12061B9F00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7608353C-932A-488E-B8A0-2EA2BC38A78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7608353C-932A-488E-B8A0-2EA2BC38A78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7608353C-932A-488E-B8A0-2EA2BC38A78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7608353C-932A-488E-B8A0-2EA2BC38A78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE64171-39E1-4800-9510-44F391BC9D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE64171-39E1-4800-9510-44F391BC9D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE64171-39E1-4800-9510-44F391BC9D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE64171-39E1-4800-9510-44F391BC9D95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
